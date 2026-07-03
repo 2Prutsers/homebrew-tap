@@ -7,7 +7,7 @@ cask "video-debriefs" do
   desc "Native macOS app for GUE dive instructors to run video debriefs from GoPro footage"
   homepage "https://2prutsers.com/video-debriefs"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Video Debriefs.app"
 end
