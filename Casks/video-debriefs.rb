@@ -1,6 +1,6 @@
 cask "video-debriefs" do
-  version "0.1"
-  sha256 "cdc362767cc8afd27f6bddae000636835bce345caa685b1e581765f3e79a7d09"
+  version "0.3"
+  sha256 "9ec2e48b28e149e7b5bb9d39ff4fa2f7c91cf5ad70bab4467d85ccec347b2629"
 
   url "https://2prutsers.com/video-debriefs/downloads/Video%20Debriefs%20v#{version}.dmg"
   name "Video Debriefs"
